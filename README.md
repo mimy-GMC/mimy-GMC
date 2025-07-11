@@ -47,7 +47,7 @@ Mon objectif est de créer des solutions utiles tout en progressant au contact d
 ## 🌐 Contacts Sociaux:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miryam-gakosso/)
-[![Discord](https://img.shields.io/badge/Discord-h3m3r4-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NinaPeige)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NinaPeige)
 
 # 💻 Tech Stack (langages, frameworks, libs, bases de données et autres):
 
