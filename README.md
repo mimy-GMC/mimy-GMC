@@ -112,10 +112,10 @@ Mon objectif est de créer des solutions utiles tout en progressant au contact d
 ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Swagger](https://img.shields.io/badge/-Swagger-%2385EA2D?style=flat&logo=swagger&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat&logo=swift&logoColor=white)
 
 # 📊 GitHub Stats:
 
