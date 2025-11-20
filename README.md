@@ -6,7 +6,7 @@
 
 🎓 Étudiante en informatique, je suis passionnée par le développement web et mobile. 
 Toujours curieuse d’apprendre et motivée par les défis techniques. 
-Mon objectif est de créer des solutions utiles tout en progressant au contact de projets réels.
+Mon objectif est de créer des solutions utiles au quotidien tout en progressant au contact de projets réels.
 
 ## 🌐 Contacts Sociaux:
 
@@ -89,7 +89,7 @@ Mon objectif est de créer des solutions utiles tout en progressant au contact d
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mimy-GMC&theme=calm&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mimy-GMC&theme=calm&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=mimy-GMC&theme=calm&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mimy-GMC&theme=calm&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
