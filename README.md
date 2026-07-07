@@ -27,7 +27,7 @@
 
 ✨ Disciplinée • Autonome • Rigoureuse • Autodidacte
 
-## 🌐 Contacts Sociaux:
+### 🌐 Contacts Sociaux:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miryam-gakosso/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NinaPeige (h3m3r4))
@@ -38,7 +38,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miryam_GAKOSSO&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimy-GMC&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miryam_GAKOSSO&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimy-GMC&theme=radical)
 
@@ -52,7 +52,7 @@
 
 # 💻 Socle Technique (langages, frameworks, librairies, bases de données, bibliothèques, outils, environnements, logiciels)
 
-### 🗣️ Langages de programmation :
+## 🗣️ Langages de programmation :
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -65,7 +65,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-### 🎨 Frameworks et bibliothèques :
+## 🎨 Frameworks et bibliothèques :
 
 ### Frontend :
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
