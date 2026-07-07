@@ -38,6 +38,6 @@
 
     <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#DE6D74;"
         stroke="#333333" stroke-width="2"> Bonjour!!</text>
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#DE6D73;"
+    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="70%" class="text" style="fill:#DE6D53;"
         stroke="#333332" stroke-width="2"> Bienvenue dans mon profil Github</text>
 </svg>
