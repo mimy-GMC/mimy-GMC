@@ -34,6 +34,23 @@
 
 ---
 
+## 📊 À propos de mon GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mimy-GMC&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimy-GMC&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimy-GMC&theme=radical)
+
+---
+### 🔹 Stats globales
+- ✨ **Total Stars** : ![Total Stars](https://img.shields.io/badge/Total%20Stars-99-%23FFD700?style=flat&logo=star&logoColor=white)
+- 📌 **Total Commits** : ![Total Commits](https://img.shields.io/badge/Total%20Commits-59-%234CAF50?style=flat&logo=git&logoColor=white)
+- 🐛 **Total Issues** : ![Total Issues](https://img.shields.io/badge/Total%20Issues-23-%23FF5733?style=flat&logo=bug&logoColor=white)
+- 🤝 **Contributions** : ![Contributions](https://img.shields.io/badge/Contributed%20to-15-%239C27B0?style=flat&logo=github&logoColor=white)
+
+---
+
 # 💻 Socle Technique (langages, frameworks, librairies, bases de données, bibliothèques, outils, environnements, logiciels)
 
 ## 🗣️ Langages de programmation :
@@ -168,8 +185,6 @@
 
 ## 🏅 Certifications :
 ![Pix](https://img.shields.io/badge/pix-%2300A7E1.svg?style=flat&logo=pix&logoColor=white)
-
----
 
 ### ✍️ Random Dev Citations :
 
