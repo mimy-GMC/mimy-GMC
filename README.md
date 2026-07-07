@@ -42,7 +42,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miryam_GAKOSSO&theme=radical&hide_border=true)
 
 ### 🌍 Langages les plus utilisés
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miryam_GAKOSSO&layout=compact&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimy-GMC&layout=compact&theme=radical&hide_title=true)
 
 ### 🔹 Stats détaillées
 - ⭐ **Total Stars** : [![Total Stars](https://img.shields.io/github/stars/Miryam_GAKOSSO?style=flat&logo=star&logoColor=white&label=Stars)](https://github.com/Miryam_GAKOSSO)
