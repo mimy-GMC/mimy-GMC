@@ -36,7 +36,7 @@
 
 ## 📊 À propos de mon GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mimy-GMC&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miryam_GAKOSSO&show_icons=true&count_private=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimy-GMC&layout=compact&theme=radical)
 
