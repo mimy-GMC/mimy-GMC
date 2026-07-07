@@ -33,20 +33,22 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NinaPeige (h3m3r4))
 
 ---
+## 📊 À propos de mon GitHub
 
-### 📊 À propos de mon GitHub
+### 📈 Stats globales
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miryam_GAKOSSO&show_icons=true&count_private=true&theme=radical&hide_title=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miryam_GAKOSSO&show_icons=true&count_private=true&theme=radical)
+### 🏆 Streak actuel
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miryam_GAKOSSO&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miryam_GAKOSSO&layout=compact&theme=radical)
+### 🌍 Langages les plus utilisés
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miryam_GAKOSSO&layout=compact&theme=radical&hide_title=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimy-GMC&theme=radical)
-
-### 🔹 Stats globales
-- ✨ **Total Stars** : ![Total Stars](https://img.shields.io/badge/Total%20Stars-99-%23FFD700?style=flat&logo=star&logoColor=white)
-- 📌 **Total Commits** : ![Total Commits](https://img.shields.io/badge/Total%20Commits-59-%234CAF50?style=flat&logo=git&logoColor=white)
-- 🐛 **Total Issues** : ![Total Issues](https://img.shields.io/badge/Total%20Issues-23-%23FF5733?style=flat&logo=bug&logoColor=white)
-- 🤝 **Contributions** : ![Contributions](https://img.shields.io/badge/Contributed%20to-15-%239C27B0?style=flat&logo=github&logoColor=white)
+### 🔹 Stats détaillées
+- ⭐ **Total Stars** : [![Total Stars](https://img.shields.io/github/stars/Miryam_GAKOSSO?style=flat&logo=star&logoColor=white&label=Stars)](https://github.com/Miryam_GAKOSSO)
+- 📌 **Total Commits** : [![Total Commits](https://img.shields.io/badge/Total%20Commits-59-%234CAF50?style=flat&logo=git&logoColor=white)](https://github.com/Miryam_GAKOSSO)
+- 🐛 **Total Issues** : [![Total Issues](https://img.shields.io/github/issues/Miryam_GAKOSSO?style=flat&logo=bug&logoColor=white&label=Issues)](https://github.com/Miryam_GAKOSSO)
+- 🤝 **Contributions** : [![Contributions](https://img.shields.io/badge/Contributions-15-%239C27B0?style=flat&logo=github&logoColor=white)](https://github.com/Miryam_GAKOSSO)
 
 ---
 
