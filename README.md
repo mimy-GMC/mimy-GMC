@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 À propos de mon GitHub
+### 📊 À propos de mon GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miryam_GAKOSSO&show_icons=true&count_private=true&theme=radical)
 
@@ -42,7 +42,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mimy-GMC&theme=radical)
 
----
 ### 🔹 Stats globales
 - ✨ **Total Stars** : ![Total Stars](https://img.shields.io/badge/Total%20Stars-99-%23FFD700?style=flat&logo=star&logoColor=white)
 - 📌 **Total Commits** : ![Total Commits](https://img.shields.io/badge/Total%20Commits-59-%234CAF50?style=flat&logo=git&logoColor=white)
@@ -53,7 +52,7 @@
 
 # 💻 Socle Technique (langages, frameworks, librairies, bases de données, bibliothèques, outils, environnements, logiciels)
 
-## 🗣️ Langages de programmation :
+### 🗣️ Langages de programmation :
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -66,7 +65,7 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-## 🎨 Frameworks et bibliothèques :
+### 🎨 Frameworks et bibliothèques :
 
 ### Frontend :
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
