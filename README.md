@@ -7,15 +7,15 @@
 👩🏾‍💻 Développeuse junior polyvalente | Web • Mobile • BDD • Réseaux
 
 🎓 Parcours :
-- BTS Systèmes Numériques (Lycée Raymond Poincaré)
-- Bachelor Développement (Sup de Vinci & Ynov Campus Bordeaux)
-- L3 MIASHS Informatique — Université Toulouse Jean-Jaurès
+- BTS Systèmes Numériques
+- Bachelor Développement
+- L3 MIASHS Informatique
 
 🛠️ Ce que je maîtrise :
 - Front : React, JavaScript, TypeScript, HTML/CSS, Bootstrap, TailwindCSS
 - Back : Python, PHP
 - Biblio : Tkinter, PyQt
-- Mobile : React Native, Kotlin, Swift
+- Mobile : React Native, Kotlin
 - BDD : MySQL, MongoDB
 - Sys & Réseaux : Linux, Shell, Adressage IP, Routage
 
