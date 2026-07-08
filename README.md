@@ -36,7 +36,7 @@
 ## 📊 À propos de mon GitHub
 
 ### 📈 Stats globales
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miryam_GAKOSSO&show_icons=true&count_private=true&theme=radical&hide_title=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Miryam_GAKOSSO&theme=radical)
 
 ### 🏆 Streak actuel
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miryam_GAKOSSO&theme=radical&hide_border=true)
