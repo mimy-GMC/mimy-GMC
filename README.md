@@ -35,20 +35,16 @@
 ---
 ## 📊 À propos de mon GitHub
 
-### 📈 Stats globales
-![Trophies](https://github-profile-trophy.vercel.app/?username=Miryam_GAKOSSO&theme=radical)
-
-### 🏆 Streak actuel
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miryam_GAKOSSO&theme=radical&hide_border=true)
-
-### 🌍 Langages les plus utilisés
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mimy-GMC&layout=compact&theme=radical&hide_title=true)
+### 🏆 Mes trophées
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miryam_GAKOSSO&theme=radical&no-frame=true&no-bg=true)
 
 ### 🔹 Stats détaillées
 - ⭐ **Total Stars** : [![Total Stars](https://img.shields.io/github/stars/Miryam_GAKOSSO?style=flat&logo=star&logoColor=white&label=Stars)](https://github.com/Miryam_GAKOSSO)
 - 📌 **Total Commits** : [![Total Commits](https://img.shields.io/badge/Total%20Commits-59-%234CAF50?style=flat&logo=git&logoColor=white)](https://github.com/Miryam_GAKOSSO)
 - 🐛 **Total Issues** : [![Total Issues](https://img.shields.io/github/issues/Miryam_GAKOSSO?style=flat&logo=bug&logoColor=white&label=Issues)](https://github.com/Miryam_GAKOSSO)
-- 🤝 **Contributions** : [![Contributions](https://img.shields.io/badge/Contributions-15-%239C27B0?style=flat&logo=github&logoColor=white)](https://github.com/Miryam_GAKOSSO)
+- 🤝 **Contributions** : [![Contributions](https://img.shields.io/badge/Contributions-15-%239C27B0?style=flat&logo=github&logoColor=white)](https://github.com/Miryam_GAKOSSO)- 
+- 🗂️ **Total Repos** : [![Total Repos](https://img.shields.io/badge/Total%20Repos-36-%23FF69B4?style=flat&logo=github&logoColor=white)](https://github.com/Miryam_GAKOSSO)
+- 👥 **Followers** : [![Followers](https://img.shields.io/github/followers/Miryam_GAKOSSO?style=flat&logo=github&logoColor=white&label=Followers)](https://github.com/Miryam_GAKOSSO)
 
 ---
 
