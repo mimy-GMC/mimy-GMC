@@ -15,9 +15,9 @@
 - Front : React, JavaScript, TypeScript, HTML/CSS, Bootstrap, TailwindCSS
 - Back : Python, PHP
 - Biblio : Tkinter, PyQt
-- Mobile : React Native (Expo), Kotlin
-- BDD : MySQL, MongoDB
-- Sys & Réseaux : Linux, Shell, Adressage IP, Routage
+- Mobile : React Native (Expo)
+- BDD : SQL, MySQL, SQLite; notions NoSQL: MongoDB
+- Sys & Réseaux : Linux (Ubuntu), commandes Shell, Adressage IP, Routage
 
 🌱 Toujours en train d'apprendre, de coder et de construire
    des projets qui ont du sens.
