@@ -36,6 +36,8 @@
 
 # 💻 Socle Technique (langages, frameworks, librairies, bases de données, bibliothèques, outils, environnements, logiciels)
 
+Ce socle technique regroupe l'ensemble des outils de conception et de développement que j'ai eu l'occasion d'utiliser, que ce soit dans un cadre professionnel, personnel ou par simple curiosité. Certains sont maîtrisés, d'autres explorés pour élargir mes compétences. Dans tous les cas, j'aborde chaque nouvelle technologie avec la volonté de progresser et de m'approprier ce qui me semble accessible et pertinent pour mes projets et pour mon savoir.
+
 ## 🗣️ Langages de programmation :
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
