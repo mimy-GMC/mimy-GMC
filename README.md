@@ -77,7 +77,6 @@ Ce socle technique regroupe l'ensemble des outils de conception et de développe
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat&logo=swift&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ## 🖥️ Applications Desktop :
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white)
