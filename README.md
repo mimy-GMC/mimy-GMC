@@ -49,6 +49,7 @@ Ce socle technique regroupe l'ensemble des outils de conception et de développe
 ![OCaml](https://img.shields.io/badge/OCaml-ED8B00?style=flat&logo=ocaml&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-3776AB?style=flat&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
